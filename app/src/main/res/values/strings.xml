@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThumNinh</string>
+
+    <string name="txt_home">Home</string>
+    <string name="txt_cart">Cart</string>
+    <string name="txt_more">More</string>
+    <string name="txt_my_account">My Account</string>
+    <string name="txt_all_cata">All Categories</string>
+    <string name="txt_exp_pro_tre">Explore Product Trends</string>
+</resources>
